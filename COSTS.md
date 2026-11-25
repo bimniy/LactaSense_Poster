@@ -2,7 +2,7 @@
 
 Supplementary material for the cost-per-patient box on the poster:
 
-$$\text{Cost per patient} = 2\,\left(C_\mathrm{sensor} + C_\mathrm{electronics}\right)$$
+$$\text{Cost per patient} = 2\ \left(C_\mathrm{sensor} + C_\mathrm{electronics}\right)$$
 
 Each patch is single use and is replaced every 24-48 h, so a 3-day stay uses two. $C_\mathrm{sensor}$ covers the microneedle chip, sensing layers, membrane, thermistor and piezoelectric film; $C_\mathrm{electronics}$ covers the potentiostat, Bluetooth chip and battery. Reusing the electronics would lower the cost but has not been worked out yet.
 
